@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:video_player] E:\flutter_image_picker\example\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] E:\flutter_image_picker\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\752471a87e755fc9df2ebc8a993d37d1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1acdabd1a6e6c17bb3805e196aa160a6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0e077ec12925abc6dd5bd9ddc7fb94fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\8cf736a0da0d64b4d7eebff77847ca75\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c1934cee4a9f8558613bc7c94644d568\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\8266015e6fe85204034c2b3f7cad554d\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\7b7625ffe88b93bbf5cfb5106b4415d1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\2ad1906f29f532eaa65dad235ba5ac82\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\4b54120fe01d407b9b7b3b0997fdf777\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\1ae8bdfe79caa269fb387a6a1618a6af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.12.1.aar\ecd49c692650d2a437dfc56bdbc666c0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.12.1.aar\fb2ef87fe2c670e4fc45bf287c74ae8c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.12.1.aar\78c1df8c21998d094418d12ed474b610\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.12.1.aar\e69f01494c5844fc1e285d859104c6df\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exifinterface-1.3.0.aar\760b5eac01a099dd3b1c539e5121ba91\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\dd9d1121587d1bf7b6ce97ee1e29fd9f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a17425463a16b895760a08ce0a77b992\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-extractor-2.12.1.aar\e32fe6e8a1a56100a89202608435fc2b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-common-2.12.1.aar\29ed3dc4a839b128c895ce2dff39e589\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\c558ce99ee23709eb8c9461ed5c14d92\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:2:5-52
+		INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\8266015e6fe85204034c2b3f7cad554d\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\8266015e6fe85204034c2b3f7cad554d\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a17425463a16b895760a08ce0a77b992\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a17425463a16b895760a08ce0a77b992\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\8266015e6fe85204034c2b3f7cad554d\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:6:18-54
+	android:icon
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:6:55-89
+activity#io.flutter.embedding.android.FlutterActivity
+ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:7:9-16:20
+	android:hardwareAccelerated
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:10:13-47
+	android:windowSoftInputMode
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:11:13-55
+	android:configChanges
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:9:13-106
+	android:theme
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:8:13-66
+	android:name
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:7:19-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:14:27-74
+activity#io.flutter.plugins.imagepickerexample.EmbeddingV1Activity
+ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:hardwareAccelerated
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:22:13-55
+	android:configChanges
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:20:13-106
+	android:theme
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:19:13-66
+	android:name
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:18:13-48
+meta-data#flutterEmbedding
+ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:24:9-71
+	android:value
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:24:52-69
+	android:name
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml:24:20-51
+uses-sdk
+INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+MERGED from [:video_player] E:\flutter_image_picker\example\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] E:\flutter_image_picker\example\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] E:\flutter_image_picker\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] E:\flutter_image_picker\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\752471a87e755fc9df2ebc8a993d37d1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\752471a87e755fc9df2ebc8a993d37d1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1acdabd1a6e6c17bb3805e196aa160a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1acdabd1a6e6c17bb3805e196aa160a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0e077ec12925abc6dd5bd9ddc7fb94fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0e077ec12925abc6dd5bd9ddc7fb94fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\8cf736a0da0d64b4d7eebff77847ca75\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\8cf736a0da0d64b4d7eebff77847ca75\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c1934cee4a9f8558613bc7c94644d568\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c1934cee4a9f8558613bc7c94644d568\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\8266015e6fe85204034c2b3f7cad554d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\8266015e6fe85204034c2b3f7cad554d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\7b7625ffe88b93bbf5cfb5106b4415d1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\7b7625ffe88b93bbf5cfb5106b4415d1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\2ad1906f29f532eaa65dad235ba5ac82\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\2ad1906f29f532eaa65dad235ba5ac82\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\4b54120fe01d407b9b7b3b0997fdf777\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\4b54120fe01d407b9b7b3b0997fdf777\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\1ae8bdfe79caa269fb387a6a1618a6af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\1ae8bdfe79caa269fb387a6a1618a6af\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.12.1.aar\ecd49c692650d2a437dfc56bdbc666c0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.12.1.aar\ecd49c692650d2a437dfc56bdbc666c0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.12.1.aar\fb2ef87fe2c670e4fc45bf287c74ae8c\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.12.1.aar\fb2ef87fe2c670e4fc45bf287c74ae8c\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.12.1.aar\78c1df8c21998d094418d12ed474b610\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.12.1.aar\78c1df8c21998d094418d12ed474b610\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.12.1.aar\e69f01494c5844fc1e285d859104c6df\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.12.1.aar\e69f01494c5844fc1e285d859104c6df\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exifinterface-1.3.0.aar\760b5eac01a099dd3b1c539e5121ba91\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exifinterface-1.3.0.aar\760b5eac01a099dd3b1c539e5121ba91\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\dd9d1121587d1bf7b6ce97ee1e29fd9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\dd9d1121587d1bf7b6ce97ee1e29fd9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a17425463a16b895760a08ce0a77b992\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a17425463a16b895760a08ce0a77b992\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-extractor-2.12.1.aar\e32fe6e8a1a56100a89202608435fc2b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-extractor-2.12.1.aar\e32fe6e8a1a56100a89202608435fc2b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-common-2.12.1.aar\29ed3dc4a839b128c895ce2dff39e589\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-common-2.12.1.aar\29ed3dc4a839b128c895ce2dff39e589\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\c558ce99ee23709eb8c9461ed5c14d92\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\c558ce99ee23709eb8c9461ed5c14d92\AndroidManifest.xml:20:5-44
+INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\flutter_image_picker\example\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:flutter_image_picker] E:\flutter_image_picker\example\build\flutter_image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.12.1.aar\e69f01494c5844fc1e285d859104c6df\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-common-2.12.1.aar\29ed3dc4a839b128c895ce2dff39e589\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-common-2.12.1.aar\29ed3dc4a839b128c895ce2dff39e589\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.12.1] C:\Users\Laptop - Lenovo\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.12.1.aar\e69f01494c5844fc1e285d859104c6df\AndroidManifest.xml:24:22-76
