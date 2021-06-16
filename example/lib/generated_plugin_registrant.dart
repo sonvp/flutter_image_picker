@@ -13,5 +13,5 @@ import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 void registerPlugins(Registrar registrar) {
   ImagePickerPlugin.registerWith(registrar);
   VideoPlayerPlugin.registerWith(registrar);
-  registrar.registerMessageHandler();
+//  registrar.registerMessageHandler();
 }
